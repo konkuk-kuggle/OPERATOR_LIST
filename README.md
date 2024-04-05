@@ -10,11 +10,13 @@
 개인 계정: https://github.com/rich-hyun
 
 
+
 부회장: 이혜승
 
 식품유통공학과 / 응용통계학과
 
 개인 계정: https://github.com/hyeseunng
+
 
 
 운영부장: 이승우
